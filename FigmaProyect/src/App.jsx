@@ -6,6 +6,7 @@ import Unlock from "./components/Unlock/Unlock"
 import Achievements from "./components/Achievements/Achievements"
 import Calender from "./components/Calender/Calender"
 import Customers from "./components/Customers/Customers"
+import CommunityUpdate from "./components/CommunityUpdate/CommunityUpdate"
 
 function App() {
   
@@ -20,6 +21,7 @@ function App() {
       <Achievements/>
       <Calender/>
       <Customers/>
+      <CommunityUpdate/>
     </>
   )
 }
