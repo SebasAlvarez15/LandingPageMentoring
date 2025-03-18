@@ -4,6 +4,8 @@ import HeroSection from "./components/Hero/HeroSection"
 import Community from "./components/Community/Community"
 import Unlock from "./components/Unlock/Unlock"
 import Achievements from "./components/Achievements/Achievements"
+import Calender from "./components/Calender/Calender"
+import Customers from "./components/Customers/Customers"
 
 function App() {
   
@@ -16,6 +18,8 @@ function App() {
       <Community/>
       <Unlock/>
       <Achievements/>
+      <Calender/>
+      <Customers/>
     </>
   )
 }
