@@ -7,7 +7,7 @@ import ImgCustomers1 from '../../assets/ImgCustomers1.png'
 const Customers = () => {
   return (
     <>
-    <div className="flex flex-col md:flex-row justify-center items-center h-auto md:h-150 gap-5 md:gap-15 p-5">
+    <div className="flex flex-col md:flex-row justify-center items-center bg-[#F5F7FA] h-auto md:h-150 gap-5 md:gap-15 p-5">
         <div className="md:mt-10 flex justify-center">
             <img src={ImgCustomers} alt="ImgCustomers" className="max-w-full h-auto md:max-w-[500px]" />
         </div>

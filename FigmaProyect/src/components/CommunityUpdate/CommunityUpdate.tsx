@@ -42,7 +42,7 @@ const CommunityUpdate = () => {
             </div>
             <div className='relative flex flex-col items-center max-w-[285px]'>
                 <img src={CommunityUpdate3} alt='Logo CommunityUpdate3' className="h-auto max-h-[286px] max-w-[368px]" />
-                <div className='absolute bottom-[-20px] left-1/2 transform -translate-x-1/2 bg-[#F5F7FA] rounded-lg p-5 shadow-lg w-[110%] h-[45%] text-center '>
+                <div className='absolute bottom-[-40px] left-1/2 transform -translate-x-1/2 bg-[#F5F7FA] rounded-lg p-5 shadow-lg w-[110%] h-auto text-center '>
                 <Title text={"Revamping the Membership Model with Triathlon Australia"} fontSize="20px" color="#4D4D4D" align="center" />
                 <div className='flex justify-center gap-2'>
                 <Title text={"Readmore"} fontSize="20px" color="#4CAF4F" align="center" />
